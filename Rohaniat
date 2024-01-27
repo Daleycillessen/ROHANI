@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract SHELL {
+    string public name = "SHELL";
+    string public symbol = "SHL";
+    uint256 public totalSupply = 30000000; // 30 million tokens
